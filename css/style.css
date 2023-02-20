@@ -64,11 +64,12 @@ nav {
 .navbar-nav .nav-link.active::after {
     content: "";
     position: absolute;
-    width: 72%;
+    width: 75%;
     height: 2px;
     background-color: white;
     top: 100%;
-    right: 15%;
+    right: 13%;
+    margin-top:2px;
 }
 
 /* end Navgition */
